@@ -1,0 +1,8 @@
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+next-env.d.ts
+# Local-first runtime data: OpenF1 cache and saved posters
+data/cache/
+data/gallery/

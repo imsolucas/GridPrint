@@ -1,0 +1,85 @@
+/* GRID PRINT tokens, generated from the design system tokens.json (Studio dark is the default theme, Paper is the light theme). */
+:root, [data-theme="dark"] {
+  --bg-0: #0b0b0e;
+  --bg-1: #121216;
+  --bg-2: #18181e;
+  --bg-3: #222229;
+  --wall: #17161a;
+  --line: #2a2a33;
+  --line-strong: #6e6e7c;
+  --ink: #ededf2;
+  --ink-muted: #a3a3b0;
+  --ink-faint: #55555f;
+  --accent: #ff2a6d;
+  --accent-ink: #0b0b0e;
+  --accent-text: #ff5c8f;
+  --accent-soft: #ff2a6d24;
+  --focus: #ffffff;
+  --sector-purple: #c08bff;
+  --sector-green: #3ddc97;
+  --sector-yellow: #ffd23f;
+  --ok: #3ddc97;
+  --warn: #ffb020;
+  --err: #ff6b6b;
+  --ok-soft: #3ddc971a;
+  --warn-soft: #ffb02014;
+  --err-soft: #ff6b6b17;
+  --guide-trim: #4fd8ff;
+  --guide-safe: #ff5c8f;
+  --poster-mat: #f4f1ea;
+  --shadow-poster: 0 1px 0 #ffffff14, 0 24px 48px -12px #000000cc, 0 8px 16px #00000066;
+  --shadow-menu: 0 16px 40px #000000b3;
+  color-scheme: dark;
+}
+[data-theme="paper"] {
+  --bg-0: #efebe2;
+  --bg-1: #f8f6f1;
+  --bg-2: #ffffff;
+  --bg-3: #e7e2d7;
+  --wall: #ded8cb;
+  --line: #d6d0c2;
+  --line-strong: #8f877a;
+  --ink: #18171b;
+  --ink-muted: #55525b;
+  --ink-faint: #a8a295;
+  --accent: #cc0a4e;
+  --accent-ink: #ffffff;
+  --accent-text: #b80044;
+  --accent-soft: #cc0a4e1a;
+  --focus: #18171b;
+  --sector-purple: #6d2fd6;
+  --sector-green: #0b7a4b;
+  --sector-yellow: #8a5a00;
+  --ok: #0b7a4b;
+  --warn: #8f5600;
+  --err: #b3261e;
+  --ok-soft: #0b7a4b14;
+  --warn-soft: #8f560012;
+  --err-soft: #b3261e12;
+  --guide-trim: #4fd8ff;
+  --guide-safe: #ff5c8f;
+  --poster-mat: #fbfaf7;
+  --shadow-poster: 0 1px 0 #ffffff, 0 24px 40px -14px #3b2f1a59, 0 6px 12px #3b2f1a26;
+  --shadow-menu: 0 16px 40px #3b2f1a33;
+  color-scheme: light;
+}
+:root {
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+  --space-7: 48px;
+  --space-8: 64px;
+  --radius-sm: 2px;
+  --radius-md: 4px;
+  --radius-lg: 8px;
+  --size-rail: 360px;
+  --size-header: 56px;
+  --size-control: 40px;
+  --size-lap-row: 32px;
+  --size-mobile-bar: 72px;
+  --font-sans: "Archivo", "Helvetica Neue", Arial, system-ui, sans-serif;
+  --font-mono: "Space Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
